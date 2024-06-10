@@ -1,0 +1,16 @@
+{
+  "users": {
+    "12345": {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "tickets": 2,
+      "ticketId": "TICKET-123"
+    },
+    "1084750323": {
+      "name": "Hdj",
+      "email": "Hdhd",
+      "tickets": "1",
+      "ticketId": "TICKET-ibtdfulty"
+    }
+  }
+}
